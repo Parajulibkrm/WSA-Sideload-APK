@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApp1" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="Path_to_adb" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ip_port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1:58526</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

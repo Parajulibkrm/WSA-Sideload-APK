@@ -1,0 +1,9 @@
+c:\users\paraj\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\paraj\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\paraj\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+c:\users\paraj\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+c:\users\paraj\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WSA-Sideload.exe.config
+c:\users\paraj\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WSA-Sideload.exe
+c:\users\paraj\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WSA-Sideload.pdb
+c:\users\paraj\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WSA-Sideload.exe
+c:\users\paraj\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WSA-Sideload.pdb
