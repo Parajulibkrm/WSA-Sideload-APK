@@ -7,3 +7,6 @@ A simple application to sideload apks with ease for windows subsystem for androi
 * Download platform tools from [here](https://developer.android.com/studio/releases/platform-tools) and unzip it. 
 * Select the path to the apk and the `platform tools` folder 
 * Click on `Install` and wait. 
+
+
+[!](https://cdn.discordapp.com/attachments/746223304540684360/900940145635774484/247284838_1239070576570461_262424617962964862_n.png)
