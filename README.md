@@ -11,3 +11,6 @@ A simple application to sideload apks with ease for windows subsystem for androi
 
 
 ![](https://cdn.discordapp.com/attachments/746223304540684360/900940145635774484/247284838_1239070576570461_262424617962964862_n.png)
+
+**You should enable developer options from WSA Settings**
+![](https://media.discordapp.net/attachments/741364092190851228/901764045407932426/unknown.png?width=773&height=678)
